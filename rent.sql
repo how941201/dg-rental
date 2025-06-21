@@ -1,0 +1,1 @@
+ALTER TABLE player_vehicles ADD COLUMN rent BIGINT NULL;
