@@ -1,5 +1,7 @@
 Config = {}
 
+Config.fuel = 'LegacyFuel'
+
 Config.Rentals = {
     [0] = {
         id = "normal_01",
