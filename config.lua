@@ -34,5 +34,3 @@ Config.VehicleList = {
 
     },
 }
-
-Config.rentlocaltion = vector4(-1035.24, -2751.17, 14.6, 333.36)
